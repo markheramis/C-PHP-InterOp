@@ -6,7 +6,7 @@ This project explores the interoperability between C++ and PHP using the PHP-CPP
 
 - Ubuntu Operating System
 - PHP development headers
-- PHP-CPP library
+- [PHP-CPP](https://www.php-cpp.com) library
 - g++ compiler
 
 ## Installation
